@@ -1,0 +1,5 @@
+var birthdate=2010;
+var futuredate=2030;
+var futureage="20 or 21";
+var future= ("I will be either" + " " + futureage + " " + "in" + " " + futuredate)
+console.log(future)
