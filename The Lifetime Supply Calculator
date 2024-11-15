@@ -2,5 +2,5 @@ var currentage=15;
 var maxage=60;
 var amountperday=3;
 var total=(maxage-currentage)*amountperday;
-var result= ("You will need", " ", total, "to last you until the ripe old age of", " ", maxage)
+var result= ("You will need" + " " + total + " " + "to last you until the ripe old age of" + " " + maxage)
 console.log(result)
