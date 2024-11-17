@@ -2,3 +2,7 @@ function displayMessage() {
   console.log("Hello World")
 }
 displayMessage()
+function findSquare(num) {
+  return (num*num)
+}
+console.log(2)
