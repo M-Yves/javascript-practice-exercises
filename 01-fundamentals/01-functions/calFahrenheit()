@@ -1,0 +1,5 @@
+function calFahrenheit(Celsius) {
+    return ((Celsius*9/5) + 32)
+}
+console.log(calFahrenheit(2))
+console.log(calFahrenheit(10))
